@@ -77,7 +77,7 @@ with st.container():
             In this tutorial, I'll show you exactly how to do it
             """
         )
-        st.markdown("[Watch Video...](https://youtu.be/TXSOitGoINE)")
+        #st.markdown("[Watch Video...](https://youtu.be/TXSOitGoINE)")
 with st.container():
     image_column, text_column = st.columns((1, 2))
     with image_column:
@@ -90,7 +90,7 @@ with st.container():
             In this video, I'm going to show you how to implement a contact form in your Streamlit app using the free service ‘Form Submit’.
             """
         )
-        st.markdown("[Watch Video...](https://youtu.be/FOULV9Xij_8)")
+        #st.markdown("[Watch Video...](https://youtu.be/FOULV9Xij_8)")
 
 # ---- CONTACT ----
 with st.container():
