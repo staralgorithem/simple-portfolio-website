@@ -47,7 +47,7 @@ with st.container():
         st.write("##")
         st.write(
             """
-            On my YouTube channel I am creating tutorials for people who:
+            On my projects I am creating some concepts for people who:
             - are looking for a way to leverage the power of Python in their day-to-day work.
             - are struggling with repetitive tasks in Excel and are looking for a way to use Python and VBA.
             - want to learn Data Analysis & Data Science to perform meaningful and impactful analyses.
@@ -56,7 +56,7 @@ with st.container():
             If this sounds interesting to you, consider subscribing and turning on the notifications, so you don’t miss any content.
             """
         )
-        st.write("[YouTube Channel >](https://youtube.com/c/CodingIsFun)")
+       
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
 
