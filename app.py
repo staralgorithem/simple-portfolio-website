@@ -1,3 +1,4 @@
+
 #Import Libraries
 import requests
 import streamlit as st
@@ -14,6 +15,7 @@ def load_lottieurl(url):
     if r.status_code != 200:
         return None
     return r.json()
+
 
 
 # Use local CSS
