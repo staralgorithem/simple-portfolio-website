@@ -40,7 +40,7 @@ with st.container():
     )
     st.write("[Learn More >](https://rezasadeghi.carrd.co)")
 
-# ---- WHAT I DO ----
+# ---- To-DO ----
 with st.container():
     st.write("---")
     left_column, right_column = st.columns(2)
